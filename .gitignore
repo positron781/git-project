@@ -1,0 +1,5 @@
+#forder logs
+logs/
+
+#txt-files
+docs/*.txt
